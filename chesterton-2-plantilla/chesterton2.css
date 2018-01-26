@@ -1,0 +1,19 @@
+@charset "utf8";
+body{
+    background-color: hsl(14, 20%, 45%);
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center
+}
+p{
+    margin-right: 15%;
+    margin-left: 15%;
+    font-size: 150%;
+    text-align: justify;
+    line-height: 50px
+}
+nav{
+
+}

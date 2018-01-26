@@ -1,0 +1,25 @@
+@charset "utf8";
+body{
+    font-family: sans-serif;
+
+}
+
+h1{
+    background-color: hsl(235, 20%, 25%);
+    color: white;
+    font-size: 400%;
+    margin: 0;
+}
+div.Internet{
+    position: relative;
+    width: 25%;
+    right: 10%;
+    left: 50%;
+    border-right: black solid
+}
+div.Escritorio{
+    position: relative;
+    width: 25%;
+    right: 50%;
+    left: 10%;
+}

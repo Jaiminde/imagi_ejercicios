@@ -1,0 +1,27 @@
+@charset "utf8";
+
+body{
+    font-family: sans-serif;
+    font-size: 150%;
+}
+h1{
+    border:black 5px solid;
+    text-align: center;
+    text-transform: uppercase;
+}
+p.aprender{
+    border-top: red 20px double;
+    border-left: red 20px double;
+}
+p.querer{
+    border-top: blue 5px dashed;
+    border-bottom: blue 20px dashed;
+    border-right: green 10px dashed;
+    border-left:green 40px dashed;
+}
+p.atiende{
+    border-top: yellow 40px double;
+    border-bottom: yellow 40px double;
+    border-right: yellow 10px double;
+    border-left: yellow 10px double;
+}

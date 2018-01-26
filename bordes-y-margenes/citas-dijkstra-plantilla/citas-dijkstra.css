@@ -1,0 +1,50 @@
+@charset "utf8";
+body{
+    background: hsl(154, 50%, 30%);
+    font-family: sans-serif;
+    font-size: 125%
+}
+p{
+    font-size: justify;
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 5px 5px black
+
+}
+p.biography{
+    background: white;
+    border:black 10px solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+}
+p.left{
+    background: hsl(17, 50%, 45%);
+    color: white;
+    border: hsl(17, 100%, 25%) 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 10px;
+    margin-right: 50%;
+}
+p.right{
+    background: hsl(34, 50%, 45%);
+    color: white;
+    border: hsl(34, 100%, 25%) 15px solid;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px;
+    margin-left: 50%;
+}
+p.center{
+    background: hsl(207, 100%, 25%);
+    color: white;
+    border: hsl(207, 50%, 45%) 5px dashed;
+    padding: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
